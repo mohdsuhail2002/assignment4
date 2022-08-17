@@ -3,7 +3,7 @@
 int main()
 {
     int i,s=1;
-    for(i=3;i<=11;s=pow(i++,3))
+    for(i=2;i<=11;s=pow(i++,3))
     { 
         printf("\n%d",s);
     }
